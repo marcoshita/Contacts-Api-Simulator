@@ -1,4 +1,5 @@
 {
+  "exercises":[
   {
     "bodyPart": "waist",
     "equipment": "body weight",
@@ -350,5 +351,6 @@
     "id": "0969",
     "name": "band alternating v-up",
     "target": "abs"
-  },
+  }
+ ]
 }
